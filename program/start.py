@@ -82,7 +82,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "‹ قناة السورس ›", url="https://t.me/MUISC_TEBTHON"
+                        "‹ قناة السورس ›", url="Tepthon"
                     )
                 ],
             ]
